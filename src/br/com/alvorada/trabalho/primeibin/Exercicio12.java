@@ -3,8 +3,8 @@ package br.com.alvorada.trabalho.primeibin;
 
 public class Exercicio12 {
 	public static void main(String[] args) {
-		int soma = 0;
-		int vetor [] = new int [10];
+		Integer soma = 0;
+		Integer vetor [] = new Integer [10];
 		for (int i = 0; i < vetor.length; i++) {
 			vetor [i] = i;
 			

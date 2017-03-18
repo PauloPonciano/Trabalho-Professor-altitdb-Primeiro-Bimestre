@@ -10,7 +10,7 @@ public class Exercicio04 {
 		double result = 0;
 		System.out.println("Digite um Valor: ");
 		num = sc.nextDouble();
-		for (int i = 0; i<=num;i++){
+		for (Integer i = 0; i<=num;i++){
 			result = Math.pow(num, i);
 		}
 		System.out.println(result);
