@@ -1,3 +1,4 @@
+//03) Crie um algoritmo que realize a exponenciação de um número inteiro duas vezes e retorne o resultado. Exemplo: 3 x 3 = 9.
 package br.com.alvorada.trabalho.primeibin;
 
 import java.util.Scanner;

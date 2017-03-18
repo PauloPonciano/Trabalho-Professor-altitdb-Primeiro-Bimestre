@@ -7,9 +7,9 @@ public class Exercicio01 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int primeiroValor = 0;
-		int segundoValor = 0;
-		int soma;
+		Integer primeiroValor = 0;
+		Integer segundoValor = 0;
+		Integer soma;
 		System.out.println("Digite o Primeiro Valor: ");
 		primeiroValor = sc.nextInt();
 		System.out.println("Digite o Segundo Valor: ");
